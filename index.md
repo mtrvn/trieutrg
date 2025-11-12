@@ -24,25 +24,25 @@ This is a jekyll based resume template. You can find the full source code on [Gi
 ## Publications
 
 ### Journal Papers
-1. Truong, M., & Hoang, V. (2025). Skeleton-based multi-person action recognition towards real-world violence detection. Engineering Applications of Artificial Intelligence, 161, 111987. https://doi.org/10.1016/j.engappai.2025.111987
+1. **Truong Minh Trieu**, Hoang Van Dung: [Skeleton-based multi-person action recognition towards real-world violence detection](https://doi.org/10.1016/j.engappai.2025.111987). Engineering Applications of Artificial Intelligence, 161, 111987. 
 
 ---
 
 ### Conference Papers
-2. Truong, M., Hoang, V., & Le, T. (2024c). Skeleton-Based Posture estimation for human action recognition using deep learning. In Lecture notes in networks and systems (pp. 85–98). https://doi.org/10.1007/978-3-031-76197-3_8
-3. Truong, M., Hoang, V., & Le, C. (2025). Automatic recognition and scoring system In military training applies modern deep learning techniques. In Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering (pp. 188–203). https://doi.org/10.1007/978-3-032-01472-6_15
+2. **Truong Minh Trieu**, Hoang Van Dung, & Le Thi Minh Chau: [Skeleton-Based Posture estimation for human action recognition using deep learning](https://doi.org/10.1007/978-3-031-76197-3_8), in Proc. International Conference on Green Technology and Sustainable Development.
+3. **Truong Minh Trieu**, Hoang Van Dung, & Le Cong Hieu: [Automatic recognition and scoring system In military training applies modern deep learning techniques](https://doi.org/10.1007/978-3-032-01472-6_15), in Proc. EAI International Conference on Smart Objects and Technologies for Social Good. 
 
 ## Scientific Awards  & Certificate
 
 Year | Category | Award
 -----|-------|--------
-2025 | Award  | Best Thesis Award, High-Quality Program (June 2025)
-2025 | Award | Outstanding Student in Scientific Research (March 2025)
-2025 | Certificate of Presentation | The RAVTE International Student Workshop (December 2024).
-2024 | Award | Excellent Student Scientific Research Project Award (November 2024).
-2024 | Certificate of Participation | Euréka Scientific Research Student Award (Semifinalist in 2024).
-2024 | Certificate of Presentation | The 7th International Conference on Green Technology and Sustainable Development (July 2024).
-2023 | Certificate of Participation | Euréka Scientific Research Student Award (Semifinalist in 2023).
+2025 | Award  | Best Thesis Award, High-Quality Program
+2025 | Award | Outstanding Student in Scientific Research
+2025 | Certificate | The RAVTE International Student Workshop
+2024 | Award | Outstanding Student Scientific Research Project Award
+2024 | Certificate | Euréka Scientific Research Student Award
+2024 | Certificate | International Conference on Green Technology and Sustainable Development
+2023 | Certificate | Euréka Scientific Research Student Award
 
 
 <!-- ## Typography
