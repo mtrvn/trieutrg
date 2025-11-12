@@ -22,13 +22,13 @@ This is a jekyll based resume template. You can find the full source code on [Gi
 - Medical Image Processing, Medical Information Retrieval, Neural Machine Translation. 
 
 ## Publications
-### Journal Papers
 
+### Journal Papers
 1. Truong, M., & Hoang, V. (2025). Skeleton-based multi-person action recognition towards real-world violence detection. Engineering Applications of Artificial Intelligence, 161, 111987. https://doi.org/10.1016/j.engappai.2025.111987
+
 ---
 
 ### Conference Papers
-
 2. Truong, M., Hoang, V., & Le, T. (2024c). Skeleton-Based Posture estimation for human action recognition using deep learning. In Lecture notes in networks and systems (pp. 85–98). https://doi.org/10.1007/978-3-031-76197-3_8
 3. Truong, M., Hoang, V., & Le, C. (2025). Automatic recognition and scoring system In military training applies modern deep learning techniques. In Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering (pp. 188–203). https://doi.org/10.1007/978-3-032-01472-6_15
 
