@@ -1,4 +1,4 @@
-title: Researcher
+title: minh trieu truong, deep learning researcher
 url: "https://mtrvn.github.io"
 baseurl: "/trieutrg"
 
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/trieutrg/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
