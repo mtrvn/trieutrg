@@ -11,11 +11,11 @@ Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Te
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
 ## Education
-### B.E., Information Technology, Aug. 2025
-- HCMC University of Technology and Education, Vietnam
-- Degree classification: Distinction
-- Supervisor: Assoc. Prof. [Van-Dung Hoang](https://scholar.google.com/citations?user=MeZq_d4AAAAJ&hl=vi&oi=ao)
-- Thesis: Integration of Large Language Models with Machine Translation for Medical Question Answering Systems
+- **B.E.**, Information Technology, Aug. 2025
+    - HCMC University of Technology and Education, Vietnam
+    - Degree classification: Distinction
+    - Supervisor: Assoc. Prof. [Van-Dung Hoang](https://scholar.google.com/citations?user=MeZq_d4AAAAJ&hl=vi&oi=ao)
+    - Thesis: Integration of Large Language Models with Machine Translation for Medical Question Answering Systems
 
 ## Research Interest
 
@@ -45,6 +45,10 @@ Year | Category | Award
 2024 | Certificate | Certificate of Presentation, International Conference on Green Technology and Sustainable Development
 2023 | Certificate | Certificate of Participation, Euréka Scientific Research Student Award
 
+## Technical Skills
+
+- Programming Languages: Python, Golang (Entry Level), SQL, Apache Hive
+- Frameworks & Tools: PyTorch, Pandas, NumPy, OpenCV, Git
 
 <!-- ## Typography
 
