@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="minhtrieu.jpg">
+<img class="profile-picture" src="favicon.jpg">
 
 Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
 
@@ -12,9 +12,9 @@ This is a jekyll based resume template. You can find the full source code on [Gi
 
 ## Education
 ### B.E., Information Technology, Aug. 2025
-- HCMC University of Technology and Education, Ho Chi Minh city, Vietnam
-- Supervisor: Prof. Van-Dung Hoang
-- Thesis: Integration of Large Language Models with Machine Translation for Medical Question Answering Systems (Score: 9.6/10.0, top 1).
+- HCMC University of Technology and Education, Vietnam
+- Supervisor: Assoc. Prof. [Van-Dung Hoang](https://scholar.google.com/citations?user=MeZq_d4AAAAJ&hl=vi&oi=ao)
+- Thesis: Integration of Large Language Models with Machine Translation for Medical Question Answering Systems
 
 ## Research Interest
 
