@@ -37,10 +37,10 @@ This is a jekyll based resume template. You can find the full source code on [Gi
 
 Year | Category | Award
 -----|-------|--------
-2025 | Award  | Best Thesis Award, High-Quality Program
-2025 | Award | Outstanding Student in Scientific Research
+2025 | Award  | **Best Thesis Award, High-Quality Program**
+2025 | Award | **Outstanding Student in Scientific Research**
 2025 | Certificate | Certificate of Presentation, The RAVTE International Student Workshop
-2024 | Award | Outstanding Student Scientific Research Project Award
+2024 | Award | **Outstanding Student Scientific Research Project Award**
 2024 | Certificate | Certificate of Participation, Euréka Scientific Research Student Award
 2024 | Certificate | Certificate of Presentation, International Conference on Green Technology and Sustainable Development
 2023 | Certificate | Certificate of Participation, Euréka Scientific Research Student Award
