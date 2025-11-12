@@ -12,16 +12,13 @@ This is a jekyll based resume template. You can find the full source code on [Gi
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 - Mathematics for Machine Learning, Linear Algebra and Calculus for Deep Learning. 
-• Mathematics for Machine Learning, Linear Algebra and Calculus for Deep Learning. 
 - Medical Image Processing, Medical Information Retrieval, Neural Machine Translation. 
-• Medical Image Processing, Medical Information Retrieval, Neural Machine Translation. 
 
 ## Publications
 
 ### Draft/Submitted/In preparation
-
+---
 ### Journal Papers
 1. Truong, M., & Hoang, V. (2025). Skeleton-based multi-person action recognition towards real-world violence detection. Engineering Applications of Artificial Intelligence, 161, 111987. https://doi.org/10.1016/j.engappai.2025.111987
 ---
@@ -29,17 +26,24 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 2. Truong, M., Hoang, V., & Le, T. (2024c). Skeleton-Based Posture estimation for human action recognition using deep learning. In Lecture notes in networks and systems (pp. 85–98). https://doi.org/10.1007/978-3-031-76197-3_8
 3. Truong, M., Hoang, V., & Le, C. (2025). Automatic recognition and scoring system In military training applies modern deep learning techniques. In Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering (pp. 188–203). https://doi.org/10.1007/978-3-032-01472-6_15
 
-## Typography
+## Scientific Awards  & Certificate
+
+Year | Category | Award
+-----|-------|--------
+2025 | Award  | Best Thesis Award, High-Quality Program (June 2025)
+2025 | Award | Outstanding Student in Scientific Research (March 2025)
+2025 | Certificate of Presentation | The RAVTE International Student Workshop (December 2024).
+2024 | Award | Excellent Student Scientific Research Project Award, Top 1 in Faculty of Information Technology, HCMC University of Technology and Education, (November 2024).
+2024 | Certificate of Participation | Euréka Scientific Research Student Award (Semifinalist in 2024).
+2024 | Certificate of Presentation | The 7th International Conference on Green Technology and Sustainable Development (July 2024).
+2023 | Certificate of Participation | Euréka Scientific Research Student Award (Semifinalist in 2023).
+
+
+<!-- ## Typography
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
 Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
 
 Here is a horizontal rule
 
@@ -47,9 +51,12 @@ Here is a horizontal rule
 
 Here is a blockquote
 
-> To a great mind, nothing is little
+> To a great mind, nothing is little -->
 
 ## References
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* Van-Dung Hoang: Associate Professor, Vice Dean of Faculty of Information Technology, HCMC University of Technology and Education.
+
+
+<!-- * Foo Bar: Head of Department, Placeholder Names, Lorem
+* John Doe: Associate Professor, Department of Computer Science, Ipsum -->
